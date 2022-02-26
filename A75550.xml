@@ -1,0 +1,306 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Arguments Pro and Con about the Right of baptizing; viz. Whether it ought to be by putting the whole body under water, or only Sprinkling a little water thereon.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75550</idno>
+            <idno type="STC">Wing A3647</idno>
+            <idno type="STC">ESTC R225438</idno>
+            <idno type="EEBO-CITATION">43077464</idno>
+            <idno type="OCLC">ocm 43077464</idno>
+            <idno type="VID">151521</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75550)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151521)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2262:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Arguments Pro and Con about the Right of baptizing; viz. Whether it ought to be by putting the whole body under water, or only Sprinkling a little water thereon.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Smith, at the Elephant and Castle in Cornhil, near the Royal Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Newberry Library, Chicago, Illinois.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baptism --  Early works to 1800.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:151521:1" rendition="simple:additions"/>
+            <head>Arguments <hi>Pro</hi> and <hi>Con</hi> about the Right of BAPTIZING; viz. Whether it ought to be by putting the whole body under water, or only Sprinkling a little water thereon.</head>
+            <head type="sub">The Baptiſts or Dippers give the following Arguments.</head>
+            <div type="part">
+               <head>
+                  <hi>I.</hi> From the natural ſignification of the word.</head>
+               <div type="subpart">
+                  <head>The Baptiſts or Dippers ſay,</head>
+                  <p>FIrſt, That it is to be by <hi>Dipping,</hi> not by <hi>Sprinkling</hi> or pour<g ref="char:EOLhyphen"/>ing, is manifeſt from the nature of the Greek word <hi>Baptiſo,</hi> which all our <hi>Lexicons</hi> and Learned <hi>Criticks</hi> with one con<g ref="char:EOLhyphen"/>ſent do tell us doth <hi>ſignifie</hi> to <hi>Dip;</hi> yea, ſuch a <hi>Dipping</hi> as is uſed in <hi>Bucks</hi> where clothes are waſhed, or as <hi>Dyers</hi> in their <hi>Dying-Vats</hi> (<hi>Leigh</hi>'s Crit. Sac.) Therefore <hi>Scapula, Stephens, Plantan, Tingo quod fit mergendo,</hi> a <hi>Dying by plunging;</hi> Cauſabon, <hi>Tanquam ad tingendum mergo;</hi> Eraſmus, <hi>Tingendi cauſa immergere,</hi> to dye by <hi>immerg<g ref="char:EOLhyphen"/>ing;</hi> and <hi>Beza, a tinction by Waſhing</hi> or <hi>Dipping;</hi> and as <hi>Bucan. Bulinger, Zanchy, Spanhemius,</hi> to Dip <hi>into</hi> water, or plung <hi>under</hi> water; <hi>Voſſius,</hi> to <hi>waſh the whole</hi> body; as <hi>Leigh. Crit.</hi> p. 50. <hi>Grocius,</hi> to <hi>Dip over head and ears:</hi> Therefore the <hi>Latins</hi> render it ſometimes by <hi>Tingo,</hi> to dye; ſometimes by <hi>Baptiſmus,</hi> to Dip; the <hi>Engliſh</hi> and <hi>French</hi> for the moſt part by the Greek word <hi>Baptiſm,</hi> or Baptim, to Dive or <hi>Duck,</hi> not <hi>Rantize</hi> or <hi>Sprinkle;</hi> the <hi>Saxons</hi> call it <hi>Gefullad,</hi> from fulling of clothes where they are duck'd or plunged; the <hi>Dutch</hi> always <hi>Doopſelor</hi> or <hi>Doopen,</hi> to Dip, dip<g ref="char:EOLhyphen"/>ping being the only proper ſenſe; and which is alſo confirmed by<note n="*" place="bottom">Liſput. <hi>p.</hi> 25.</note> 
+                     <hi>Voſſius</hi>
+                     <note n="(a)" place="bottom">Pan. Cath. <hi>Tit.</hi> 4. <hi>l.</hi> 5. <hi>c.</hi> 2.</note> 
+                     <hi>Chamier,</hi>
+                     <note n="(b)" place="bottom">Diat. on <hi>Tit.</hi> 3.2.</note> 
+                     <hi>Mead,</hi>
+                     <note n="(c)" place="bottom">on <hi>Mat.</hi> 3.</note> 
+                     <hi>Cauſabon,</hi>
+                     <note n="(d)" place="bottom">de Prim. pap. <hi>p.</hi> 193.</note> 
+                     <hi>Salmatius,</hi>
+                     <note n="(e)" place="bottom">de Jure nat. <hi>l.</hi> 2. <hi>c.</hi> 2.</note> 
+                     <hi>Pindorus,</hi>
+                     <note n="(f)" place="bottom">Ode 2.</note> 
+                     <hi>Selden,</hi>
+                     <note n="(g)" place="bottom">Rule Conſc. <hi>l.</hi> 4. <hi>c.</hi> 4.</note> Dr. <hi>Tayler,</hi>
+                     <note n="(h)" place="bottom">Annot. New Teſt. <hi>Mat.</hi> 3. <hi>Mark</hi> 7. &amp;c.</note> Dr. <hi>Hamond,</hi>
+                     <note n="(i)" place="bottom">Tract. Sac. <hi>p. c.</hi> 8. <hi>p.</hi> 177.</note> Mr. <hi>Dan. Rogers,</hi>
+                     <note n="(k)" place="bottom">Dict.</note> 
+                     <hi>Min<g ref="char:EOLhyphen"/>cheus, Scotus, Aquinus,</hi> &amp;c.</p>
+               </div>
+               <div type="subpart">
+                  <head>The Rantiſts or Sprinklers anſwer.</head>
+                  <p>That it may be by ſprinkling or pouring, by applying the Element to the per<g ref="char:EOLhyphen"/>ſon, not the perſon to the Element, appears by the nature of the word, which ſignifies to Waſh as well as to Dip, as moſt Criticks acknowledge, <hi>Item Lavo</hi> ſaith <hi>Beudeus, Scapula, Stephens, Scriverius, Paſor,</hi> yea, to ſprinkle, as <hi>Schimdjus,</hi> Dr. <hi>Featly.</hi>
+                  </p>
+               </div>
+               <div type="subpart">
+                  <head>The Baptiſtt Reply.</head>
+                  <p>That a word may have divers <hi>Significations,</hi> nay ſometimes <hi>contrary</hi> one to the other, is no ways doubtful; for the Hebrew <hi>Kodeſh,</hi> the proper word for <hi>Holineſs,</hi> ſometimes may ſignifie <hi>Whoredom,</hi> or <hi>Sodomy,</hi> Deut. 23.17. <hi>Hoſea</hi> 4.14. 2 <hi>Kings</hi> 23.17. And <hi>Barack,</hi> the word for <hi>Bleſſing,</hi> is taken ſometimes for <hi>Curſing,</hi> Job 1.5, 11. &amp; 2.9. Therefore the <hi>genuine</hi> and <hi>proper Signification</hi> is <hi>mainly</hi> to be eyed; and when reſpecting <hi>Divine</hi> things, the uſuage of Scripture, nature of the <hi>thing,</hi> and <hi>ſcope</hi> of the place, is to rule about it. It is true, the word may ſometimes import waſhing; but as<note n="(a)" place="bottom">
+                        <hi>Beza</hi> on <hi>Mark</hi> 7.4. which in the <hi>Treat. of Bap.</hi> is miſtakenly ſaid to be <hi>Eraſmus.</hi>
+                     </note> 
+                     <hi>Beza</hi> obſerves, only by conſequence, not properly, becauſe you cannot dip a thing, but you muſt wet or waſh it: But never is taken for ſprinkling.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>II.</hi> From the Scripture-Acceptation of the word.</head>
+               <div type="subpart">
+                  <head>The Baptiſts ſay,</head>
+                  <p>Secondly, That it is by <hi>Dipping,</hi> may yet further be confirmed from the <hi>Scripture-Acceptation</hi> of the word, both in the Old and New-Teſtament: Firſt, in the<note n="(a)" place="bottom">Exod. 12.22. Lev. 4.6, 17. &amp; 9.9. &amp; <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 16.52. Numb. 10.18. Joſh. 3.15. Ruth. 2.14. 1 Kings <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 4.6, <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Ezek. 23.15. <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 24.27. 2 Kings 8.15. Job 9.31. 2 Kings Mark 4.<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>. Deut. 33.29.</note> 
+                     <hi>Old-Teſtament</hi> the word <hi>Tabal</hi> one and the ſame with <hi>Baptiſe,</hi> as the Septuagint renders it (and as <hi>Beza, Hamond, Minchius, Kircherus,</hi> &amp;c. and others do aſſert) is always &amp; in every place, by all our Engliſh <hi>Tranſlators,</hi> rendred to <hi>Dip.</hi> And in the<note n="(b)" place="bottom">Luke 16.24. John 13.26. Mat. 5.14. &amp; 26.23. <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 10. Rev. 19.13.</note> 
+                     <hi>New-Teſtament,</hi> ſeveral times alſo to <hi>Dip,</hi> but moſt <hi>frequently</hi> by the Greek word it ſelf <hi>Baptiſe</hi> or <hi>Dip,</hi> not <hi>Rantiſe,</hi> or Sprinkle; <hi>Loiſe,</hi> or waſh; <hi>Keioſe,</hi> or pour: And therefore ſaith<note n="(c)" place="bottom">Treat. of Sacraments, <hi>part</hi> 1. <hi>ch.</hi> 8. <hi>p.</hi> 177.</note> Mr. <hi>Rogers, The word imports nothing elſe but to Dip, for the Greek wanted not</hi> other <hi>words to expreſs any other act beſides Dipping, if the Inſtitution could bear it,</hi> (as he ſaith) <hi>is exceeding material</hi> to the <hi>Ordinance,</hi> as <hi>Scripture</hi> and <hi>Anti<g ref="char:EOLhyphen"/>quity informeth, and without exception to Countreys hot or cold.</hi>
+                  </p>
+               </div>
+               <div type="subpart">
+                  <head>The Rantiſts anſwer,</head>
+                  <p>That it may be by pouring or ſprinkling, we have Confirmation from the Scrip<g ref="char:EOLhyphen"/>ture. Acceptation of the word. <hi>1.</hi> Becauſe the word <hi>Tabal</hi> is by <hi>Gen. 30.37, 38.</hi> rendred by <hi>Moluno poluo,</hi> which by the circumſtances muſt be ſprinkling. And the Chald. Jitztabah, <hi>Dan. 4.20.</hi> which by the LXX. is rendred Ebephe, is tranſlated wet, which muſt be by aſperſion. And <hi>Rev. 19.13.</hi> the word Bapto, compared <hi>Iſa. 63.3.</hi> muſt be ſprinkled; and <hi>Mark 7.48.</hi> to waſh, not dip.</p>
+               </div>
+               <div type="subpart">
+                  <head>The Baptiſts Reply</head>
+                  <pb facs="tcp:151521:2"/>
+                  <p>That if it ſhould be taken for <hi>granted,</hi> that the word in theſe four places may be taken otherwiſe than in all other places, will it be judged <hi>reaſonable,</hi> that thoſe four ſhould out-<hi>ballance</hi> and over-rule all the reſt, which are above a hundred times rendred to dip. But in the next place, if the particulars be conſidered, you will not find them make good the thing <hi>pretended:</hi> For 1. As to <hi>Joſeph's</hi> Coat, <hi>Gen.</hi> 37.31. if dipt in blood, as we render it, it may well be ſaid to be <hi>polluted, dyed,</hi> or <hi>ſmeared therewith.</hi> And as to <hi>Dan.</hi> 4.20. the word <hi>Jitztabah</hi> is by <hi>Montanus</hi> rendred <hi>intingatur</hi> vel <hi>aſpergetur:</hi> And if the Scripture do render it <hi>Ebaphe,</hi> which we tranſlate <hi>wet,</hi> yet it muſt be <hi>grant<g ref="char:EOLhyphen"/>ed</hi> to be ſuch a weting as is by <hi>by dipping;</hi> viz. A thorough weting, a weting all over: A wetting by the dew of Heaven from above by aſperſion, and a wetting by the dew of Heaven reſting upon the long graſs, by applying the body thereto, and ſo a dipping alſo; yea every part of the body. And as for <hi>Rev.</hi> 19.13. it is parallel with <hi>Iſa.</hi> 63.12. as ſaith our Engliſh great <hi>Annota<g ref="char:EOLhyphen"/>tions,</hi> dyed, red <hi>Garments,</hi> and garments dipt in <hi>blood;</hi> being one and the ſame, though as in <hi>Verſ.</hi> 3. <hi>Blood</hi> may be ſprinkled upon Red Garments alſo. As for <hi>Mark</hi> 7.3. the word rendred <hi>waſh</hi> is <hi>Nipto,</hi> not <hi>Bapto,</hi> which figni<g ref="char:EOLhyphen"/>fies when reſpecting <hi>waſhing</hi> of hands, a <hi>dipping</hi> up to the Elbows, as Dr. <hi>Ha<g ref="char:EOLhyphen"/>mond</hi> (and <hi>Theophilact,</hi> as in the margent) upon the place obſerve: And to which purpoſe, they had Water-pots containing two or three Firkins apiece always ready in their houſes, as <hi>John</hi> 2.6. ſo that we ſhould always (as the Dutch do) read it dip; and therefore in <hi>Verſ.</hi> 8. it is explained to be ſuch a waſhing, by the word dip or baptize.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>III.</hi> From the Scripture-Metaphors explaining it.</head>
+               <div type="subpart">
+                  <head>The Baptiſts ſay,</head>
+                  <p>Thirdly, That it is by <hi>Dipping,</hi> and wherein much water is required, and not by <hi>Sprinkling,</hi> wherein a ſmall quantity of water ſufficeth, appears from the <hi>Scripture-Metaphors</hi> alluding to this <hi>Rite;</hi> viz. When perſons are ſaid to be <hi>over-whelmed</hi> in great ſufferings, they are ſaid to be baptized therein, <hi>Matth.</hi> 20.22, 23. <hi>Luke</hi> 12.5. When ſaid to have greet meaſures of the Spirit, it is to be <hi>Baptized</hi> with the Spirit, <hi>Acts</hi> 5.11, 16. When the children of Iſ<g ref="char:EOLhyphen"/>ral were covered with <hi>a Cloud</hi> behind them, and over their heads, and the Sea on both ſides, were then ſaid to be Baptized in the Sea and Cloud, 1 <hi>Cor.</hi> 10.2. with <hi>Exod.</hi> 14.22. When <hi>Aſher</hi> had the promiſed Bleſſing of great plenty, he is ſaid to have his feet <hi>dipt</hi> in oyl. And when great victory over enemies, 'tis ſaid, that feet are dipt in their Blood, <hi>Pſal.</hi> 68.23.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>IV.</hi> From the nature and ends of the Ordinance.</head>
+               <div type="subpart">
+                  <head>The Baptiſts ſay,</head>
+                  <p>Fourthly, It is to be by <hi>Dipping,</hi> not Sprinkling, from the nature and ends of the <hi>Ordinance;</hi> viz. To a <hi>figure</hi> or <hi>ſign</hi> in the outward <hi>Viſible</hi> act of ſpiri<g ref="char:EOLhyphen"/>tual <hi>things</hi> held forth thereby, that by the ſign, the thing <hi>ſignified</hi> might be exemplified; <hi>viz.</hi>
+                  </p>
+                  <pb facs="tcp:151521:1" rendition="simple:additions"/>
+                  <p n="1">1. To figure out the <hi>Covenant</hi> on mans part that he viſibly declares to en<g ref="char:EOLhyphen"/>ter into thereby; <hi>viz.</hi> To dye to ſin, and <hi>to live</hi> to Chriſt in <hi>newneſs</hi> of life: By that <hi>figurative Death, Burial</hi> and <hi>Reſurrection,</hi> being put under the the <hi>water,</hi> and taken out thereof, and therefore ſaid to be <hi>buried</hi> with <hi>Chriſt in Baptiſm,</hi> as <hi>Rom.</hi> 6.4. <hi>Col.</hi> 2.11, 12, 13. as ſo fully own'd by <hi>Piſcator, Tilenus, Diodat, Aſſemblies</hi> and <hi>Leigh's Annotations,</hi> Dr. <hi>Cave, Tillotſon, Goodwin, Kekerman, Baxter, Magdiburg,</hi> as <hi>Treat. Bapt. B.</hi> 2. <hi>chap.</hi> 4. doth particularize.</p>
+                  <p n="2">2. To be a ſign of the <hi>Covenant</hi> on Gods part; <hi>viz.</hi> of <hi>waſhing away of ſins, cleanſing</hi> the whole man, and every part, and to give ſpiritual <hi>Life</hi> and <hi>Salvation, Acts</hi> 2.32. &amp; 22.16. 1 <hi>Pet.</hi> 3.21. And to the end that whole and <hi>every</hi> part is be to <hi>waſhed,</hi> that as every part is <hi>defiled,</hi> and needs cleanſing and <hi>purifying,</hi> ſo muſt not one part be left <hi>unbaptized:</hi> Therefore <hi>Ainſworth</hi> treating upon Baptizing the Lepers under the Law (the Type hereof) ſaith, Lev. 15.5. <hi>That every part muſt be baptized, and if ſo much as the tip of the finger was left unbaptized, it was eſteemed no Baptiſm:</hi> And therefore ſaith the Learned<note n="(a)" place="bottom">de Jure Nat. <hi>l.</hi> 2. <hi>c.</hi> 2.</note> 
+                     <hi>Selden,</hi> That the Jews <hi>(from whom this Rite is conceived to come) took that Baptiſm, wherein the whole body was not baptized, to be void.</hi> And to this end,<note n="(b)" place="bottom">Upon John 13.10.</note> ſaith Dr. <hi>Hamond, they</hi> had large <hi>Diving-places, or Bap<g ref="char:EOLhyphen"/>tiſterions, containing</hi> divers <hi>Baths of water, which they called Columbethro's, or Diving-places.</hi>
+                  </p>
+                  <p n="3">3. To figure out <hi>Regeneration,</hi> being as ſo generally own'd a <hi>Symbol</hi> of <hi>Re<g ref="char:EOLhyphen"/>generation</hi> wrought; therefore being born of ſpiritual water by <hi>Regeneration, John</hi> 3.5. We are in the figure <hi>taken out</hi> of <hi>literal</hi> water, or born out of the <hi>Bowels</hi> of it, as we are <hi>really</hi> taken out of the <hi>Womb</hi> in the firſt birth.</p>
+                  <p n="4">4. To figure out our <hi>Sanctification,</hi> or newneſs of life; for as in Baptiſm we are all <hi>covered</hi> over, as with a garment, ſo we are ſaid thereby to <hi>put on</hi> Chriſt, <hi>Gal.</hi> 3.27. <hi>viz.</hi> his white Garment of <hi>Righteouſneſs</hi> and <hi>Holineſs,</hi> and therefore to expect from him to that end, <hi>according</hi> to <hi>promiſe,</hi> the being dipt or <hi>baptized</hi> into or with the Spirit, <hi>Acts</hi> 11.16. &amp; 2.38.</p>
+               </div>
+               <div type="subpart">
+                  <head>The Rantiſts anſwer,</head>
+                  <p>It is to be by Sprinkling, not Dipping:</p>
+                  <list>
+                     <item>
+                        <hi>1.</hi> From the Analogy it hath with ſprinkling Chriſts blood upon the Con<g ref="char:EOLhyphen"/>ſcience, <hi>Heb. 12.24.</hi>
+                     </item>
+                     <item>
+                        <hi>2.</hi> Effuſion of the Spirit, <hi>Acts 2.17.</hi>
+                     </item>
+                     <item>
+                        <hi>3.</hi> Waſhing of Regeneration, <hi>Tit. 3.5.</hi>
+                     </item>
+                     <item>
+                        <hi>4.</hi> Pouring water upon the Ark, <hi>1 Pet. 3.23.</hi> the figure of Baptiſm.</item>
+                  </list>
+               </div>
+               <div type="subpart">
+                  <head>The Baptiſts Reply.</head>
+                  <p>It is true, 1. Chriſts blood is <hi>ſaid to</hi> be <hi>ſprinkled,</hi> but that is in alluſion to the ſprinkling of the blood under the Law, <hi>Heb.</hi> 9.12, 13. &amp; 19.21. with <hi>Lev.</hi> 14.6, 7, 8. <hi>Numb.</hi> 19.17, 18, 19. but not to expreſs and point out to us the external Rite of Baptiſm, to which it bears no proportion either in name or nature. 2. That the Spirit is ſaid to be <hi>poured out</hi> is very true, which reſpects that great <hi>meaſure</hi> and <hi>quantity</hi> of the Spirit, not the outward mode and Rite of Baptiſm; though that pouring out of the Spirit, as before is Metaphori<g ref="char:EOLhyphen"/>cally called the Baptiſm of the Spirit, in alluſion to that of water, wherein was quantities of water, and whereof every member of the baptized perſon did partake: But ſimilies do not run of all four. 3. As to the <hi>pouring water</hi> upon the Ark, no queſtion when the windows of Heaven were opened in that Deluge, great meaſures were <hi>poured down</hi> upon it; but that is not the <hi>Figure of Bap<g ref="char:EOLhyphen"/>tiſm:</hi> The figure wherein the <hi>Ark and Baptiſm</hi> are ſaid in that place to hold <hi>Analogy,</hi> is in this, that as thoſe perſons that entred into the Ark in <hi>Noahs</hi> time, were ſaved in that Deluge, ſo they that enter into Chriſt the ſpi<g ref="char:EOLhyphen"/>tual Ark by Faith; and the <hi>Viſible</hi> Ark, the Church, by Baptiſm, the viſible door thereof do enter into the promiſed ſavation: Therefore for any to uſe <hi>Srpinkling</hi> inſtead of <hi>Dipping,</hi> ſaith Dr. <hi>Taylor</hi> in his <hi>Rul. Con. c.</hi> 4. <hi>p.</hi> 644. is <hi>not only againſt Eccleſiaſtical Law, but againſt the Analogy and myſtical ſignification of the Sacrament;</hi> and therefore he ſaith, <hi>is not to be complyed with.</hi> As to that of the waſhing of Regeneration, I refer to that which is ſaid in the Treatiſe of Baptiſm, <hi>part</hi> 2. <hi>chap.</hi> 4.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>V.</hi> From Scripture-Practice, and Command.</head>
+               <div type="subpart">
+                  <head>The Baptiſts ſay,</head>
+                  <p>Fifthly, <hi>Dipping,</hi> not Sprinkling, is the Rite of this great Ordinance, if we reſpect the Scripture-<hi>Practice</hi> or <hi>Command</hi> confirming the ſame: 1. The Practice, <hi>Mat.</hi> 3.15. When Jeſus was baptized, or dipt, he came ſtraight<g ref="char:EOLhyphen"/>way out of the water: Therefore <hi>Cajetan</hi> upon the place ſaith, that Chriſt's aſcending out of the water, proves that he was baptized by <hi>John,</hi> not by ſprinkling, but by Immerſion, or dipping. And <hi>Muſculus</hi> ſaith upon it, that the <hi>baptized parties</hi> were dipt, not ſprinkled: And <hi>John</hi> 3.13. <hi>John</hi> bap<g ref="char:EOLhyphen"/>tized at <hi>Enon,</hi> becauſe there was much water. Upon which place ſaith <hi>Calvin,</hi> you may gather, that <hi>John</hi> and Chriſt adminiſtred Baptiſm, by plunging the whole body into the water. And <hi>Acts</hi> 8.38. <hi>Philip</hi> and the Eunuch went both down into the water: And therefore ſaith <hi>Calvin</hi> upon it, We ſee what faſhion the Ancients had to adminiſter Baptiſm, for they <hi>plunged</hi> the whole body into water, <hi>&amp;c.</hi> And the <hi>command</hi> to this was expreſs, <hi>Mat.</hi> 28.19. <hi>Go teach all Nations,</hi> dipping, (not ſprinkling) <hi>them in the name of the Father, Son, and Holy Spirit.</hi> And <hi>Acts</hi> 10.48. 'tis ſaid, Peter <hi>com<g ref="char:EOLhyphen"/>manded
+<pb facs="tcp:151521:2"/>them to be dipt,</hi> (not ſprinkled) <hi>in the name of the Lord,</hi> &amp;c. And therefore whether this is not as plain a Conmand for a Believer to be dipt, and which he ſhould no more ſhift or alter, than when we are commanded, <hi>Fagate,</hi> to eat of the Bread, <hi>&amp;c.</hi> that we are literally and plainly to do ſo, with<g ref="char:EOLhyphen"/>out any changing or altering the ſame, as ſone have done in that and the like caſe alſo.</p>
+               </div>
+               <div type="subpart">
+                  <head>The Rantiſts anſwer,</head>
+                  <p>That Sprinkling, not Dipping, was the uſage in the Scripture; becauſe how could they baptize by dipping three thouſand in one day, <hi>Acts 2.</hi> And how could the Jailor be ſo baptized in his own houſe, <hi>Acts 16.</hi>
+                  </p>
+               </div>
+               <div type="subpart">
+                  <head>The Baptiſtr Roly.</head>
+                  <p>That the three thouſand mentioned in <hi>Act</hi> 2. were dipt, not <hi>ſprinkled,</hi> is clear, not only from the words, becauſe 'tis ſaid in plain <hi>terms</hi> they were <hi>dipt,</hi> Acts 2.41. And they wanted not help in that great <hi>Adminiſtration,</hi> the Twelve and Seventy were witneſſes, beſides others of the 120 <hi>Diſciples,</hi> that if need required, were <hi>capable</hi> to be helpful in the work. And as to the <hi>Jailor</hi>'s being <hi>baptized</hi> in his own houſe (as ſuggeſted) 'tis a miſtake; for after he was baptized, 'tis ſaid, <hi>Verſ.</hi> 34. he brought them into his houſe.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>VI.</hi> From the practice of the Ancients, and confeſt change from <hi>Dipping</hi> to Sprinkling.</head>
+               <div type="subpart">
+                  <head>The Baptiſts ſay,</head>
+                  <p>Sixthly, As a further Confirmation by way of <hi>Illuſtration,</hi> that dipping was the Rite of this <hi>Ordinance,</hi> not ſprinkling, may further appear from the <hi>Confeſt</hi> practice of the <hi>Ancients</hi> for the firſt Ages, and the acknowledged <hi>change</hi> and alteration of it afterwards; In teſtimony whereof, <hi>Daille</hi> on the Fathers, <hi>lib.</hi> 2. <hi>p.</hi> 148. ſaith, That it was the cuſtom heretofore in the An<g ref="char:EOLhyphen"/>cient Church to plunge, thoſe they baptized, over head and ears into the water; as (ſaith he) <hi>Tertullian</hi> in <hi>Book</hi> 3 <hi>Cor. Mil. Cyp.</hi> in <hi>Ep.</hi> 7. <hi>p.</hi> 211. <hi>Epipha. Pa.</hi> 30. <hi>p.</hi> 128. and others teſtifie.<note n="(a)" place="bottom">De Reb. Eccleſ.</note> 
+                     <hi>Walafrid Strabo</hi> ſaith, <hi>That at</hi> firſt <hi>Believers</hi> were baptized <hi>ſimply in</hi> Floods and Rivers.<note n="(b)" place="bottom">Ad Theol. wit. Reſp. 11. <hi>c.</hi> 8.</note> 
+                     <hi>Jeremias Pat.</hi> of <hi>Conſtant.</hi> ſaith, <hi>That the Ancients baptized not by ſprinkling, but immerging, following the example of the Evangeliſt, who came up out of the water, therefore did he deſcend. Zopperus de Sacram.</hi> ſaith, <hi>from the Etymo<g ref="char:EOLhyphen"/>logy of the word it doth appear, what was the cuſtom of old of adminiſtring Baptiſm, which is ſince changed into Rantizing. Chryſoſtome, as</hi> Dr. <hi>Taylor</hi> in his <hi>Rule of Conſcience,</hi> Book 4. c. 4. tells us, <hi>That the old man is buried and drowned</hi> in the <hi>Immerſion under water <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> and when the baptized perſon is afterwards raiſed up from the water, it repreſents the Reſurrection of the new-man to newneſs of life.</hi> Mr. <hi>Joſ. Mead</hi> upon <hi>Tit.</hi> 3. tells us, <hi>there was no ſuch thing as Rantiſm or ſprinkling in the Apoſtles time, nor many Ages after.</hi> And Dr. <hi>Tayler</hi> as above, ſaith, <hi>That the ancient Church did not in their Baptiſm ſprinkle water with their hands, but did immerge;</hi> and there<g ref="char:EOLhyphen"/>fore ſaith, <hi>we find in the Records of the Church, that the perſons baptized
+<pb facs="tcp:151521:1" rendition="simple:additions"/>were to be quite naked,</hi> for which he gives divers inſtances and Authorities for divers Ages. Dr. <hi>Cave</hi> in his <hi>Prim. Chriſt.</hi> ſaith, <hi>That of old the baptized party was immerged, or wholly put under water, which was the almoſt conſtant and univerſal cuſtom of thoſe times.</hi>
+                     <note n="(c)" place="bottom">Voſſius de Bap. 14, <hi>to</hi> 64.</note> 
+                     <hi>Voſſius</hi> in <hi>p.</hi> 40. <hi>gives not only the na<g ref="char:EOLhyphen"/>ture of the word, from the old Gloſsers, and the Septuagint, and the beſt Criticks, to be dipping; but from the ſayings and uſage of the Ancients from the trine Immerſion, till</hi> Gregory, <hi>and then the ſingle Immerſion by the Council of</hi> To<g ref="char:EOLhyphen"/>litan; <hi>and how in theſe cold Climates it came to be altered.</hi>
+                     <note n="(d)" place="bottom">Annimad. <hi>p.</hi> 297, <hi>to</hi> 319.</note> Sir <hi>Norton Knatch</hi> in <hi>p.</hi> 40. <hi>gives the uſuage of it from the Scripture and Antiquity</hi> to be dipping, and that it ſo continues in the Greek Churches to this day.<note n="(e)" place="bottom">Ut ſup.</note> And as <hi>Daille</hi> tells us, is ſtill the <hi>practice of the Grecian and Ruſſian, Churches at this day,</hi> Caſſander <hi>de Bap. p.</hi> 193. <hi>and that it was the confeſt cuſtom of the Church of</hi> England, their <hi>Engliſh Liturgy</hi> will <hi>determine,</hi> which required the party to be baptized, <hi>to be dipt in water, except in great ex<g ref="char:EOLhyphen"/>tremity and weakneſs.</hi>
+                  </p>
+                  <p>Secondly, As to the change and alteration of this Rite, we have the fol<g ref="char:EOLhyphen"/>lowing Confeſſions; <hi>viz.</hi>
+                     <note n="(a)" place="bottom">a Diſput. of the Riſe to Sacraments.</note> Mr. <hi>Baxter</hi> in his third Augument to Mr. <hi>Blake</hi> ſaith, as to the manner of it, it is commonly confeſt by us to the Anabap<g ref="char:EOLhyphen"/>tiſts (as our Commentators declare) that in the Apoſtles time, the baptized were dipt over head in water; and though ſince it hath been thought meet to diſuſe the manner of dipping; and to uſe leſs water.<note n="(b)" place="bottom">Pau. Cathol. <hi>Tom.</hi> 4. <hi>l.</hi> 5. <hi>c.</hi> 2. <hi>Ser.</hi> 6.</note> 
+                     <hi>Chamier</hi> con<g ref="char:EOLhyphen"/>feſſeth, That the ancient uſe of Baptiſm was to dip the whole body into the Element, which is the force of the word <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, therefore did <hi>John</hi> baptize in a River, which is nevertheleſs changed into Aſperſion, though uncertain when and whence that cuſtom was taken. The Marquis of <hi>Worceſter</hi> in his <hi>Certam. Relig.</hi> confeſſeth, that the Church of <hi>Rome</hi> hath changed dip<g ref="char:EOLhyphen"/>ping the party over head and ears, into ſprinkling upon the face. <hi>Calvin</hi> up<g ref="char:EOLhyphen"/>on <hi>Acts</hi> 8.38. confeſſeth, they have varied from the Apoſtolical practice, which was by plunging the body into the water. <hi>Beza</hi> upon <hi>Gal.</hi> 3. acknow<g ref="char:EOLhyphen"/>ledgeth, that it was the cuſtom of old to baptize the Adult by immerging.<note n="(c)" place="bottom">Ut ſupra.</note> 
+                     <hi>Daille</hi> further ſaith, as before, Though this cuſtom of dipping be ancient and univerſal, yet it is now aboliſhed by the Church of <hi>Rome;</hi> and this is the reaſon, ſaith he, that the Muſcovites ſay, that the Latines are not rightly and duly baptized, becauſe they deſpiſed this ancient Ceremony of Dipping.</p>
+               </div>
+               <div type="subpart">
+                  <head>The Rantiſts anſwer,</head>
+                  <p>That ſprinkling was very ancient in the Church, as well as dipping, ap<g ref="char:EOLhyphen"/>pears out of <hi>Euſebius,</hi> witneſſing, that <hi>Novatus</hi> was baptized by pouring water upon him. <hi>Walafrid Strabo</hi> is peremptory, that it was done both ways: And <hi>Cyp. Ep.</hi> to <hi>Mag.</hi> evidenceth it to have been of very ancient practice. Clem. Alex. p. <hi>387.</hi> teſtifieth the ſame; and though 'tis confeſt, they did in ſome places of old dip the baptized, yet it was in hot—Countries.</p>
+               </div>
+               <div type="subpart">
+                  <head>The Baptiſts Reply.</head>
+                  <p>That ſprinkling of the ſick, or Clinical Baptiſm, did early creep in is confeſt: But<note n="(a)" place="bottom">
+                        <hi>Rule Conſ.</hi> ut ſupra.</note> Dr. <hi>Tayler</hi> tells us from <hi>Cornelius</hi> Ep. to <hi>Fabianus, Euſeb. lib.</hi> 6. <hi>c.</hi> 43. and out of <hi>Magnus</hi> Ep. <hi>That they ſcrupled to receive into holy Orders, any that had only received the Clinical Baptiſm; yea, ſo much as to eſteem them Chriſtians, that had only been ſprinkled.</hi> And as <hi>Voſſ us</hi> in his <hi>Book</hi> of <hi>Baptiſm</hi> tells us, <hi>is was queſtioned, whether they did not lye when they ſaid, they baptized a perſon, when they only ſprinkled him.</hi> And as to baptizing in cold Countries by dipping, as well as hot, we have <hi>Au<g ref="char:EOLhyphen"/>thentick</hi> proof; there being, as <hi>Dan. Rogers</hi> ſaith, no diſtinction of hot or cold. <hi>Ruſſia,</hi> as is well known, an extraordinary cold Country, whereas you have heard they have, and do ſtill <hi>uſe the Rite</hi> of dipping to this day. And in <hi>England</hi> of <hi>old,</hi> how frequent was it to baptize in Rivers, witneſs <hi>Germa<g ref="char:EOLhyphen"/>nus</hi> and <hi>Lupus, baptizing multitudes in the River</hi> Allin <hi>in</hi> Cheſhire, <hi>Treat. of Bapt.</hi> p. 228. <hi>Paulinus great numbers</hi> in the River <hi>Swol</hi> in <hi>York ſhire,</hi> and <hi>Trent</hi> in <hi>Notinghamſhire, Bed.</hi> Book 2. ch 16. beſides the appointment in the Engliſh Liturgy to dip little Children in this Country, and which hath been the practice in ſome places formerly, but eſpecially the known, conſtant practice of the Baptiſts in <hi>Holland, Germany,</hi> and <hi>England,</hi> both Winter and Summer, without the leaſt detriment or inconveniency.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>A brief Corrollary, containing ſome neceſſary Quaeries upon the whole.</head>
+               <p>
+                  <hi>Quaer.</hi> 1. WHether is it not demonſtrably evident by this Six-fold Argu<g ref="char:EOLhyphen"/>ment (confirmed by ſo great Teſtimony both Divine and Hu<g ref="char:EOLhyphen"/>mane) that <hi>Dipping,</hi> not <hi>Sprinkling,</hi> was the <hi>inſtituted</hi> Rite of this great <hi>Ordinance of Baptiſm?</hi>
+               </p>
+               <p>
+                  <hi>Quaer.</hi> 2. Whether this of <hi>Dipping,</hi> having been Chriſts poſitive <hi>Appointment,</hi> from all thoſe holy ends, and ſpiritual <hi>Reaſons</hi> inforcing it as well as his own and all the primitive <hi>Saints expreſs</hi> practiſe, it will not appear to be very <hi>dan<g ref="char:EOLhyphen"/>gerous,</hi>
+                  <pb facs="tcp:151521:2"/>and ſavour of too much <hi>Preſumption</hi> and <hi>Arrogancy,</hi> upon ſuch groſs miſtakes, and upon nothing but <hi>Human Inſtitution,</hi> to alter and change the ſame to a clear other Rite, inverting thereby ſo ſolemn a piece of Gods <hi>holy Worſhip,</hi> and introducing inſtead thereof, ſo <hi>groundleſs</hi> a <hi>Tradition</hi> and In<g ref="char:EOLhyphen"/>vention of <hi>man;</hi> and doth not juſtly fall under the <hi>Reproofs</hi> and <hi>Threatnings</hi> of the following <hi>Scriptures,</hi> Matth. 15.9. <hi>In vain they do worſhip me, teach<g ref="char:EOLhyphen"/>ing for Doctrines the Commandments of men:</hi> Mark 7.7. <hi>For laying aſide the Commandment of God, ye hold the Traditions of men, rejecting and fruſtra<g ref="char:EOLhyphen"/>ting the Commandments of God, to keep your own Traditions:</hi> Iſa. 24.5. They <hi>have tranſgreſſed the Law, changed the Ordinances therefore,</hi> &amp;c. And no leſs then a <hi>Violation</hi> of the Firſt and Second Commandment, <hi>intrenching</hi> upon God's <hi>Prerogative-Royal,</hi> wherein he is ſo <hi>jealous,</hi> the Preſumption whereof coſt <hi>Iſrael</hi> ſo dear?</p>
+               <p>
+                  <hi>Quaer.</hi> 3. Whether ſprinkling only a few drops of water upon the face, in<g ref="char:EOLhyphen"/>ſtead of dipping the whole perſon, doth not as much ſpoil the Symbol, and vacate the inſtituted ſignificant ends of the Ordinance, as to eat only the Wa<g ref="char:EOLhyphen"/>fer, and reject the Cup, ſpoils the Ordinance of breaking of Bread, and drink<g ref="char:EOLhyphen"/>ing of Wine, in remembrance of the broken Body and Blood of our Lord: Or as ſome of old, when God commanded the foreskin to be circumciſed, ſhould have ſatisfied themſelves to circumciſe their nails, if they did but keep the name and ends of the Ordinance? And whether one is not as provoking to the Lord as the other?</p>
+               <p>
+                  <hi>Quaer.</hi> 4. Whether to <hi>conform</hi> hereto, is not to yield obedience to the Inſti<g ref="char:EOLhyphen"/>tution and Injunction of <hi>Antichriſt</hi> (for though 'tis granted it was in uſe be<g ref="char:EOLhyphen"/>fore it was impoſed by the Popes) as Infant-Baptiſm was, yet was it by them eſpecially enjoyned, as the other was, as confeſt by ſo many of their own? And whether in ſo doing, there is not as great indignity offered to the <hi>Authority of Chriſt,</hi> and contempt to his <hi>Wiſdom,</hi> as there is a declared ſubjection to, and owning and honouring ſuch a groſs Uſurpation?</p>
+               <p>
+                  <hi>Quaer.</hi> 5. Whether it may not <hi>rationally</hi> be ſuppoſed, that one great end of the Popes <hi>enjoyning</hi> theeeof, was not with more <hi>Pomp</hi> and <hi>Solemnity</hi> to eſtabliſh and confirm <hi>Infant-Baptiſm,</hi> ſo much the Pillar and Foundation of <hi>his Church?</hi> And whether it doth not appear, he did upon as good <hi>ground</hi> change the Rite, as ſo alter the ſubject? And that he doth as <hi>warrantably,</hi> and by as good <hi>Scripture-Authority,</hi> ſprinkle <hi>Bells,</hi> and Church-<hi>Walls</hi> and <hi>Standards,</hi> and call it Baptiſm, as the other?</p>
+               <p>
+                  <hi>Quaer.</hi> 6. Whether for any to ſprinkle <hi>an Infant,</hi> and to ſay they <hi>Baptize</hi> it in the Name of the <hi>Father, Son, and Spirit,</hi> is not as <hi>much to tell a lye</hi> in the Name of the Lord, and to <hi>prophane</hi> a holy Ordinance of his, as they do who uſe the ſame Form in <hi>Baptizing</hi> of <hi>Bells?</hi> &amp;c.</p>
+               <p>
+                  <hi>Quaer.</hi> Whether <hi>Learned</hi> and good <hi>men</hi> may not, from the conſideration of their <hi>miſtake</hi> in the Rite, <hi>have</hi> cauſe to conclude they have <hi>miſtaken</hi> the ſubject alſo? And that being neither right in the <hi>matter</hi> or <hi>manner</hi> of the Or<g ref="char:EOLhyphen"/>dinance, it is a mear nullity, and therefore ſhould engage them to the right performance in both, as they would approve themſelves Chriſt's Diſciples and Followers, and not err in ſo great a foundation of the Chriſtian Religion?</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Francis Smith,</hi> at the Elephant and Caſtle in <hi>Cornhil,</hi> near the Royal Exchange. 1675.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
